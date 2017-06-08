@@ -1,7 +1,5 @@
 // MWxVersion.h.
 // Managed C++ wrapper for WxVersion.
-// Generated automatically by VQInteropAutogen ver. 3.0.4222.15938
-// Author: Jeremy M. Dalmer (jdalmer@wsi.com).
 
 #pragma once
 
